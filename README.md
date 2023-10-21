@@ -26,5 +26,4 @@ O blog possui as seguintes funcionalidades:
 
 ## Contato
 
-[Linkedin](https://www.linkedin.com/in/thiago-aquino-75b07023a)
-[Gmail](thiagoaquino.df@gmail.com)
+[Linkedin](https://www.linkedin.com/in/thiago-aquino-75b07023a) - [Gmail](thiagoaquino.df@gmail.com)
