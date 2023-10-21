@@ -1,27 +1,30 @@
-# AngularBlog
+# PROJETO - BLOG FEITO COM ANGULAR
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+![Modelo do Blog criado com Angular!](src/assets/img-ref-blog.jpg "Imagem de referência do Blog")
 
-## Development server
+Este é um projeto de um blog sobre animes desenvolvido em Angular.
+O blog foi criado como um desafio pessoal, através da DIO.me, para aprender e praticar Angular, um dos principais frameworks para desenvolvimento web.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Tecnologia
 
-## Code scaffolding
+O blog foi desenvolvido usando Angular, uma plataforma para construir aplicações web com HTML, CSS e TypeScript.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Instalação
 
-## Build
+Para instalar e executar o blog localmente, você precisa ter o Node.js e o Angular CLI instalados no seu computador. Depois, siga estes passos:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- Clone ou baixe este repositório para a sua máquina.
+- Abra um terminal na pasta do projeto e execute npm install para instalar as dependências.
+- Execute ng serve para iniciar um servidor de desenvolvimento na porta 4200.
+- Acesse http://localhost:4200 no seu navegador para ver o blog.
+Você também pode ver o blog online neste link: [Blog de animes com Angular]()
 
-## Running unit tests
+## Uso
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+O blog possui as seguintes funcionalidades:
+- Página Home, com links de contatos (Linkedin e Github), título do site e conteúdos da página tendo um conteúdo em destaque e outros populares.
 
-## Running end-to-end tests
+## Contato
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+[Linkedin](https://www.linkedin.com/in/thiago-aquino-75b07023a)
+[Gmail](thiagoaquino.df@gmail.com)
