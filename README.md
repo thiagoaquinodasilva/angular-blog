@@ -1,9 +1,10 @@
 # PROJETO - BLOG FEITO COM ANGULAR
 
-![Modelo do Blog criado com Angular!](src/assets/img-ref-blog.jpg "Imagem de referência do Blog")
-
+## Sobre
 Este é um projeto de um blog sobre animes desenvolvido em Angular.
 O blog foi criado como um desafio pessoal, através da DIO.me, para aprender e praticar Angular, um dos principais frameworks para desenvolvimento web.
+
+![Modelo do Blog criado com Angular!](src/assets/img-ref-blog.jpg "Imagem de referência do Blog")
 
 ## Tecnologia
 
