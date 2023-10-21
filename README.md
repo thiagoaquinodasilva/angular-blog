@@ -18,7 +18,6 @@ Para instalar e executar o blog localmente, você precisa ter o Node.js e o Angu
 - Abra um terminal na pasta do projeto e execute npm install para instalar as dependências.
 - Execute ng serve para iniciar um servidor de desenvolvimento na porta 4200.
 - Acesse http://localhost:4200 no seu navegador para ver o blog.
-Você também pode ver o blog online neste link: [Blog de animes com Angular]()
 
 ## Uso
 
